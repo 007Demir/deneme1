@@ -1,4 +1,5 @@
 # deneme1
+bunu yeni yazdim
 yazdik diyelim
 aa
 d
@@ -13,4 +14,7 @@ bbbb
 
 
 
+
+fs
+yutdt]
 
